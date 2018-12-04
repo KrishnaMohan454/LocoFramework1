@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '11.0'
+
+target 'TestCocoaPods' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TestCocoaPods
+    pod 'LocoFramework1', :path => '/Users/krishnamohan/Desktop/LocoFramework1/LocoFramework1/LocoFramework1.podspec'
+end

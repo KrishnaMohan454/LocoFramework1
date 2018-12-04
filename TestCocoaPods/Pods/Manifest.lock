@@ -1,0 +1,16 @@
+PODS:
+  - LocoFramework1 (1.0.0)
+
+DEPENDENCIES:
+  - LocoFramework1 (from `/Users/krishnamohan/Desktop/LocoFramework1/LocoFramework1/LocoFramework1.podspec`)
+
+EXTERNAL SOURCES:
+  LocoFramework1:
+    :path: "/Users/krishnamohan/Desktop/LocoFramework1/LocoFramework1/LocoFramework1.podspec"
+
+SPEC CHECKSUMS:
+  LocoFramework1: a9516d7cffb4dd8bba0e2cb0f13de7320cc6f87e
+
+PODFILE CHECKSUM: 35dec2da4edc4a235c5c57db652502d77750a649
+
+COCOAPODS: 1.5.3

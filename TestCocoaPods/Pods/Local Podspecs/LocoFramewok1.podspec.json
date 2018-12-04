@@ -1,0 +1,16 @@
+{
+  "name": "LocoFramework1",
+  "version": "1.0.0",
+  "summary": "This is timepass",
+  "homepage": "https://github.com/KrishnaMohan454/LocoFramework1.git",
+  "license": "MIT",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "authors": "Krishna",
+  "source": {
+    "git": "https://github.com/KrishnaMohan454/LocoFramework1.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LocoFramework1/**/*"
+}
